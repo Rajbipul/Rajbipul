@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipul Raj</h1>
 <h3 align="center">I am a learner from IIT Patna.</h3>
 
-<img align="right" alt="coding " width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw2xwkOyV_rAYd3t3qx__V4d&ust=1703524256393000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi729PIqIMDFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2S5RlfAkTugJvnXthBOeKH&ust=1703524527690000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi4ncTJqIMDFQAAAAAdAAAAABAE)">
-
-<p align="left"> <img src="https://media.istockphoto.com/id/1388571320/photo/3d-rendering-amazon-tree-frog-on-white.jpg?s=612x612&w=0&k=20&c=ZfiIJC5BvvZAAZZQPB4WX8fCFQAYFD7sgLMfjuLj7KM=" alt="rajbipul" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p![image](https://github.com/Rajbipul/Rajbipul/assets/87718022/8a68d3c3-4648-4ba2-ac85-60518eb12dac)
